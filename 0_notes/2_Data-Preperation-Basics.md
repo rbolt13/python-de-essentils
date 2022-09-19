@@ -22,4 +22,12 @@ DataFrame object - acts like a spreadsheet in Excel, made of a set of Series obj
 
 Series object - a row or column that is indexed 
 
-![image](https://user-images.githubusercontent.com/76530973/191070216-f02e5a9b-2e51-44f0-8650-cc4e46020281.png)
+## Comparison Operators in Python 
+
+![image](https://user-images.githubusercontent.com/76530973/191070350-7a861b0e-5333-4b7d-9800-2c9e7cc83380.png)
+
+## Code Demonstration
+
+* Plain indexing
+* Data slicing 
+* Arithmetic comparisions
