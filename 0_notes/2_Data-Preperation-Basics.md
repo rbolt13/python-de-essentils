@@ -56,5 +56,14 @@ In the coding demonstration we will show why it is important to approximate miss
 * COunting missing values
 * Filtering out missing values
 
+# Removing Dulplicates
+
+## Why Remove Duplicates?
+
+* To maintain accurate, consistent datasets
+* To avoid producting erroneous or misleading statistics
+
+
+
 
 
