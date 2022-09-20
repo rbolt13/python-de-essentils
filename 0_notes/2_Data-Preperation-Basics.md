@@ -45,7 +45,7 @@ Imagine you work at a local car dealership, and are tasked with summarizing resu
 
 Notice Sally and Jim are missing values for the "Quality of Work", but did respond to the other 75% of information. We dont want to drop the information they gave or drop the information given for this column by Rod, Sam, and Jane. What should we do?
 
-We could fill in the missing values with an approximation of the average of the other values in the row. 
+We could fill in the missing values with an approximation of the average of the other values in the column. 
 
 In the coding demonstration we will show why it is important to approximate missing values as oppose to dropping them all together. 
 
