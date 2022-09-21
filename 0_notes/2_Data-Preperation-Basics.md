@@ -63,7 +63,10 @@ In the coding demonstration we will show why it is important to approximate miss
 * To maintain accurate, consistent datasets
 * To avoid producting erroneous or misleading statistics
 
+# Concatenate and Transform Data
 
+* Concatenation
+* Trasnformation
 
 
 
