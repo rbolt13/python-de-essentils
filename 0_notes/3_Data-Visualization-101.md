@@ -1,6 +1,6 @@
 # Data Visualization 101
 
-#Three types of Data Visualization 
+# Three types of Data Visualization 
 
 1. Data storytelling - for presentations to organizational decision makers. 
 
