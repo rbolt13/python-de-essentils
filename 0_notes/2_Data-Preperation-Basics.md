@@ -68,5 +68,10 @@ In the coding demonstration we will show why it is important to approximate miss
 * Concatenation
 * Trasnformation
 
+# Grouping and aggregation
+
+* To compare subsets
+* To deduce reasons why subgroups differ
+* To subset your data for your analysis
 
 
