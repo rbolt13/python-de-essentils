@@ -65,8 +65,8 @@ In the coding demonstration we will show why it is important to approximate miss
 
 # Concatenate and Transform Data
 
-* Concatenation
-* Trasnformation
+* Concatenation: combines strings or dataframes together 
+* Trasnformation: reformats data by dropping, adding, or sorting etc. 
 
 # Grouping and aggregation
 
