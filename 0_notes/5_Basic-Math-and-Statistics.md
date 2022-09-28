@@ -20,3 +20,6 @@ Matrix: a two-dimenstional container for elements that are stored in an array.
 
 ![image](https://user-images.githubusercontent.com/76530973/192805583-cae81ec5-fb78-4d11-aea4-666d137f93bb.png)
 
+![image](https://user-images.githubusercontent.com/76530973/192807704-e1c8b90e-5675-422d-8380-eed331095ef7.png)
+
+
