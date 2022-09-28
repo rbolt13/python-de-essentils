@@ -22,4 +22,21 @@ Matrix: a two-dimenstional container for elements that are stored in an array.
 
 ![image](https://user-images.githubusercontent.com/76530973/192807704-e1c8b90e-5675-422d-8380-eed331095ef7.png)
 
+# Generating Summary Statistics
+
+## Two Categories of Descriptive Statistics
+
+1. Descriptive statistics that describe the values of observations in a variable.
+2. Descriptive statistics that describe variable spread. 
+
+(1) Observations: sum, median, mean, max
+
+(2) Spread: Standard deviation, variabce, counts, quartiles
+
+## Uses for Descriptive Statistics
+
+* Detecting outliers
+* Planning data preparation requirements for machine learning
+* Selecting feature for use in machine learning
+
 
