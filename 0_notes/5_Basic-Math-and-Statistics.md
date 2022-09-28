@@ -39,4 +39,21 @@ Matrix: a two-dimenstional container for elements that are stored in an array.
 * Planning data preparation requirements for machine learning
 * Selecting feature for use in machine learning
 
+# Summarizing Categorical Data
+
+## Categorical Variable 
+
+* Accepts only a limited and fixed number of values. 
+* Each observation is assigned to a specific subgroup.
+
+## Creating a Categorical Variable 
+
+![image](https://user-images.githubusercontent.com/76530973/192876576-28b4093b-f56d-4fc5-921a-169ea47b3275.png)
+
+## Basic Ways to Describe Categorical Variables
+
+1. Counts
+2. Variable Description
+3. Grouping 
+
 
